@@ -50,6 +50,8 @@ body, html, #root {
   background-size: cover;
 }
 
+
+
 .card-front {
   filter: grayscale(100%);
   transition-duration: 1s;
